@@ -1,6 +1,17 @@
+<p align="center">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+  <a href="https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/">
+    <img alt="Made by Yara Faran" src="https://img.shields.io/badge/made_by-Yara_Faran-pink">
+  </a>
+</p>
+
+
 # Assembly MIPS Codes
 
 Este repositório contém códigos escritos em Assembly MIPS, uma linguagem de baixo nível frequentemente utilizada em arquiteturas de processadores MIPS. Aqui, você encontrará implementações de algoritmos, rotinas e programas desenvolvidos em Assembly MIPS.
+
 
 # Questões Especificas
 
